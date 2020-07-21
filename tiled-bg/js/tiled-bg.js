@@ -11,7 +11,7 @@ function generate() {
     cc.canvas.width = w;
     cc.canvas.height = h;
 
-    var size = 100;
+    var size = 2;
 
     for (var y = 0; y < h; y+=size){
         for (var x = 0; x < w; x+=size){
